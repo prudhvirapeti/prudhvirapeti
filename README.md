@@ -1,12 +1,13 @@
-<h1 align="center">Hey, I'm Prudhvi 👋</h1>
-
 <p align="center">
-  <em>Python developer with a taste for challenges — building things that matter.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Prudhvi+%F0%9F%91%8B;Python+Developer;ML+%26+Data+Enthusiast;Open+Source+Contributor;Always+up+for+a+challenge!" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/prudhvirapeti">
     <img src="https://komarev.com/ghpvc/?username=prudhvirapeti&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/prudhvirapeti?tab=followers">
+    <img src="https://img.shields.io/github/followers/prudhvirapeti?label=Followers&style=flat&color=0e75b6" alt="followers" />
   </a>
 </p>
 
@@ -43,15 +44,11 @@
 
 ---
 
-### Featured Projects
+### GitHub Trophies
 
-| Project | Description | Tech |
-|---|---|---|
-| [PowerBI Developer Portfolio](https://github.com/prudhvirapeti/PowerBI_Developer_Portfolio) | B2B pricing, customer trends & financial KPI dashboards | Power BI, DAX, SQL |
-| [Disease Prediction using ML](https://github.com/prudhvirapeti/Disease-prediction-using-Machine-Learning) | Predicts diseases from symptoms using 3 ML algorithms | Python, scikit-learn, tkinter |
-| [SmartJobPitch](https://github.com/prudhvirapeti/SmartJobPitch) | Automates tailored job pitch generation | Python |
-| [Webcam Pulse Detector](https://github.com/prudhvirapeti/webcam-pulse-detector) | Real-time heart rate detection using only a webcam | Python, OpenCV |
-| [Online Shopping Application](https://github.com/prudhvirapeti/Online-Shopping-Application) | REST API for e-commerce with role-based access | Java, Spring Boot |
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prudhvirapeti&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
 
 ---
 
@@ -68,14 +65,47 @@
 
 ---
 
-### Open Source Contributions
+### Contribution Snake
 
-I actively contribute to open source projects. Recent merged PRs:
-
-- 🔧 [PracticalMind/skate](https://github.com/PracticalMind/skate/pull/5) — Added missing `model` attribute declaration to `BaseProvider`
-- 🔧 [Varadharavi/binge-roulette](https://github.com/Varadharavi/binge-roulette/pull/17) — Removed obsolete `version` key from docker-compose.yml
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prudhvirapeti/prudhvirapeti/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prudhvirapeti/prudhvirapeti/dist/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/prudhvirapeti/prudhvirapeti/dist/github-snake.svg" />
+</picture>
 
 ---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [PowerBI Developer Portfolio](https://github.com/prudhvirapeti/PowerBI_Developer_Portfolio) | B2B pricing, customer trends & financial KPI dashboards | Power BI, DAX, SQL |
+| [Disease Prediction using ML](https://github.com/prudhvirapeti/Disease-prediction-using-Machine-Learning) | Predicts diseases from symptoms using 3 ML algorithms | Python, scikit-learn, tkinter |
+| [SmartJobPitch](https://github.com/prudhvirapeti/SmartJobPitch) | Automates tailored job pitch generation | Python |
+| [Webcam Pulse Detector](https://github.com/prudhvirapeti/webcam-pulse-detector) | Real-time heart rate detection using only a webcam | Python, OpenCV |
+| [Online Shopping Application](https://github.com/prudhvirapeti/Online-Shopping-Application) | REST API for e-commerce with role-based access | Java, Spring Boot |
+
+---
+
+### Open Source Contributions
+
+I actively contribute to open source. Recent PRs:
+
+- 🔧 [PracticalMind/skate #5](https://github.com/PracticalMind/skate/pull/5) — Added missing `model` attribute to `BaseProvider`
+- 🔧 [Varadharavi/binge-roulette #17](https://github.com/Varadharavi/binge-roulette/pull/17) — Removed obsolete `version` key from docker-compose.yml
+
+---
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+</p>
 
 <p align="center">
   <em>Always open to collaboration and new opportunities!</em>
