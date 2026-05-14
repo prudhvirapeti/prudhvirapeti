@@ -121,6 +121,12 @@ I track my AI engineering learning journey daily in public:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1393](https://github.com/google/magika/pull/1393) in [google/magika](https://github.com/google/magika)
+2. ℹ️ Labeled issue [#1](https://github.com/prudhvirapeti/ai-learning-tracker/issues/1) in [prudhvirapeti/ai-learning-tracker](https://github.com/prudhvirapeti/ai-learning-tracker)
+3. ℹ️ Labeled issue [#1](https://github.com/prudhvirapeti/ai-learning-tracker/issues/1) in [prudhvirapeti/ai-learning-tracker](https://github.com/prudhvirapeti/ai-learning-tracker)
+4. ❗ Opened issue [#1](https://github.com/prudhvirapeti/ai-learning-tracker/issues/1) in [prudhvirapeti/ai-learning-tracker](https://github.com/prudhvirapeti/ai-learning-tracker)
+5. 💪 Opened PR [#17](https://github.com/Varadharavi/binge-roulette/pull/17) in [Varadharavi/binge-roulette](https://github.com/Varadharavi/binge-roulette)
+6. 💪 Opened PR [#5](https://github.com/PracticalMind/skate/pull/5) in [PracticalMind/skate](https://github.com/PracticalMind/skate)
 <!--END_SECTION:activity-->
 
 ---
