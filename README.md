@@ -121,12 +121,12 @@ I track my AI engineering learning journey daily in public:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/TheColonyCC/langchain-colony/pull/36) in [TheColonyCC/langchain-colony](https://github.com/TheColonyCC/langchain-colony)
-2. 💪 Opened PR [#1393](https://github.com/google/magika/pull/1393) in [google/magika](https://github.com/google/magika)
-3. ℹ️ Labeled issue [#1](https://github.com/prudhvirapeti/ai-learning-tracker/issues/1) in [prudhvirapeti/ai-learning-tracker](https://github.com/prudhvirapeti/ai-learning-tracker)
-4. ℹ️ Labeled issue [#1](https://github.com/prudhvirapeti/ai-learning-tracker/issues/1) in [prudhvirapeti/ai-learning-tracker](https://github.com/prudhvirapeti/ai-learning-tracker)
-5. ❗ Opened issue [#1](https://github.com/prudhvirapeti/ai-learning-tracker/issues/1) in [prudhvirapeti/ai-learning-tracker](https://github.com/prudhvirapeti/ai-learning-tracker)
-6. 💪 Opened PR [#17](https://github.com/Varadharavi/binge-roulette/pull/17) in [Varadharavi/binge-roulette](https://github.com/Varadharavi/binge-roulette)
+1. 🎉 Merged PR [#1](https://github.com/prudhvirapeti/Spendly/pull/1) in [prudhvirapeti/Spendly](https://github.com/prudhvirapeti/Spendly)
+2. 💪 Opened PR [#1](https://github.com/prudhvirapeti/Spendly/pull/1) in [prudhvirapeti/Spendly](https://github.com/prudhvirapeti/Spendly)
+3. 💪 Opened PR [#36](https://github.com/TheColonyCC/langchain-colony/pull/36) in [TheColonyCC/langchain-colony](https://github.com/TheColonyCC/langchain-colony)
+4. 💪 Opened PR [#1393](https://github.com/google/magika/pull/1393) in [google/magika](https://github.com/google/magika)
+5. ℹ️ Labeled issue [#1](https://github.com/prudhvirapeti/ai-learning-tracker/issues/1) in [prudhvirapeti/ai-learning-tracker](https://github.com/prudhvirapeti/ai-learning-tracker)
+6. ℹ️ Labeled issue [#1](https://github.com/prudhvirapeti/ai-learning-tracker/issues/1) in [prudhvirapeti/ai-learning-tracker](https://github.com/prudhvirapeti/ai-learning-tracker)
 <!--END_SECTION:activity-->
 
 ---
