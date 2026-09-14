@@ -121,7 +121,7 @@ I track my AI engineering learning journey daily in public:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/prudhvirapeti/Spendly/pull/1) in [prudhvirapeti/Spendly](https://github.com/prudhvirapeti/Spendly)
+1. 🎉 Merged PR [#36](https://github.com/TheColonyCC/langchain-colony/pull/36) in [TheColonyCC/langchain-colony](https://github.com/TheColonyCC/langchain-colony)
 2. 💪 Opened PR [#1](https://github.com/prudhvirapeti/Spendly/pull/1) in [prudhvirapeti/Spendly](https://github.com/prudhvirapeti/Spendly)
 3. 💪 Opened PR [#36](https://github.com/TheColonyCC/langchain-colony/pull/36) in [TheColonyCC/langchain-colony](https://github.com/TheColonyCC/langchain-colony)
 4. 💪 Opened PR [#1393](https://github.com/google/magika/pull/1393) in [google/magika](https://github.com/google/magika)
